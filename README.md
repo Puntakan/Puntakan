@@ -1,5 +1,3 @@
-<h2 align="center">Dan Puntakan Choosri</h2>
-
 <div id="header" align="center">
   <img src= "https://github.com/Puntakan/Puntakan/blob/main/PUNTAKAN.png" width ="1000" height="450"/>
 </div>
